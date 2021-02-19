@@ -1,5 +1,6 @@
 <h1 align="center">Xin Chào, Tôi là Đức<a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a></h1>
-
+<h3 align="center">Fresher Developer in 🇻🇳VIỆT NAM🇻🇳</h3>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=rahuldkjain alt=rahuldkjain/> </p>
 
 <h3 align="left">Ngôn ngữ và công cụ sử dụng :</h3>
 <p align="left">
