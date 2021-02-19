@@ -20,5 +20,5 @@
 </p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trantuyet&show_icons=true&locale=en" alt="HoangDuc98" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HoangDuc98&show_icons=true&locale=en" alt="HoangDuc98" /></p>
 
