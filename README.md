@@ -7,7 +7,7 @@
 
 - 👨‍💻 Mọi dự án của tôi đều có tại [HoangDuc98](https://github.com/HoangDuc98)
 
-- ⚡ Fun fact *Chai over Coffee ☕️*
+- ⚡ Đây là *Thức Uống Dành Cho Các Lập Trình Viên ☕️*
 <h3 align="left">Ngôn ngữ và công cụ sử dụng :</h3>
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
