@@ -29,6 +29,10 @@
   
 <h3 align="left">Liên Hệ Với Tôi:</h3>
 <p align="left">
+    <a href="#" class="fa fa-facebook"></ạ>
+    <a class="fa fa-youtube"></à>
+    <a href="#" class="fa fa-twitter"></ạ>
+    <a href="#" class="fa fa-google"></à>
 <a href="https://codepen.io/rahuldkjain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="rahuldkjain" height="30" width="40" /></a>
 <a href="https://dev.to/rahuldkjain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="rahuldkjain" height="30" width="40" /></a>
 <a href="https://twitter.com/rahuldkjain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rahuldkjain" height="30" width="40" /></a>
