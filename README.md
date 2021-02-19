@@ -1,17 +1,11 @@
 <h1 align="center">Xin Chào, Tôi là Đức<a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a></h1>
 <h3 align="center">Fresher Developer in 🇻🇳VIỆT NAM🇻🇳</h3>
 
-- 🔭 I’m currently working on [github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
+- 💬 Hãy giúp tôi thêm về *PHP, Laravel and Angular, v..v..*
 
-- 👯 I’m looking to collaborate on [MDX](https://github.com/mdx-js/mdx)
+- 📫 Liên hệ Gmail với tôi tại *duccoc98@gmail.com*
 
-- 🤔 I’m looking for help with [github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
-
-- 💬 Ask me about *react, vue and gsap*
-
-- 📫 Reach me at *rahuldkjain@gmail.com*
-
-- 👨‍💻 All of my projects are available at [rahuldkjain](https://rahuldkjain.github.io)
+- 👨‍💻 Mọi dự án của tôi đều có tại [HoangDuc98](https://github.com/HoangDuc98)
 
 - ⚡ Fun fact *Chai over Coffee ☕️*
 <h3 align="left">Ngôn ngữ và công cụ sử dụng :</h3>
