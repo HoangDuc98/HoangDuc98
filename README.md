@@ -1,9 +1,9 @@
 <h1 align="center">Xin Chào, Tôi là Hoàng Đức <a href="https://www.facebook.com/HoangDucVIP1"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a></h1>
 <h3 align="center">Fresher Developer <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="25px"> in 🇻🇳VIỆT NAM🇻🇳</h3>
 
-- 💬 Hãy giúp tôi thêm về *PHP, Laravel and Angular, v..v..*
+- 💬 Hãy giúp tôi thêm về *PHP, Laravel, v..v..*
 
-- 📫 Liên hệ Gmail với tôi tại *lehoangduc8386@gmail.com*
+- 📫 Liên hệ Gmail với tôi tại *hoangduc98.dev@gmail.com*
 
 - 👨‍💻 Mọi dự án của tôi đều có tại [HoangDuc98](https://github.com/HoangDuc98)
 
