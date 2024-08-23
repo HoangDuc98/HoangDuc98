@@ -1,9 +1,9 @@
 [![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--zfWtbjlt--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/http://networkstatic.net/wp-content/uploads/2015/01/twitter-gopher-banner-small.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm DuckGoLang</h1>
 <h3 align="center">A passionate backend developer from Viet Nam</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://marcofranssen.nl/_next/image?url=%2Fimages%2F951957866431d77793480aba8bb624da2f6b3fb2.gif&w=1920&q=75">
 
-<p align="left"> <img src="https://marcofranssen.nl/_next/image?url=%2Fimages%2F951957866431d77793480aba8bb624da2f6b3fb2.gif&w=1920&q=75" alt="hoangduc98" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hoangduc98&label=Profile%20views&color=0e75b6&style=flat" alt="hoangduc98" /> </p>
 
 - 🔭 I’m currently working on **GiaMinh Media**
 
